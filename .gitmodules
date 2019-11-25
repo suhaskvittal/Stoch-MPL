@@ -1,0 +1,6 @@
+[submodule "JSMPL"]
+	path = JSMPL
+	url = https://github.com/suhaskvittal/JSMPL.git
+[submodule "PySMPL"]
+	path = PySMPL
+	url = https://github.com/suhaskvittal/PySMPL.git
